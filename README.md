@@ -4,7 +4,7 @@
 
 ## Webbplats
 
-Tredje fas av webbplatsprojekt här ligger utvecklings-filer, vilket inkluderad Gulp-konfiguration, Javascript-, PHP- och SASS-filer. 
+Tredje fas av webbplatsprojekt här ligger alla utvecklings-filer, vilket inkluderad Gulp-konfiguration, REST-webbtjänst, Fetch API, Javascript-, PHP- och SASS-filer. 
 
 ### 1.1 Sätt upp databasen via SQL-fråga:
 
