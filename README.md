@@ -70,3 +70,9 @@ git clone https://github.com/jbbreil/WEBSITE-GIT.git
 1. npm install --save --dev
 
 2. gulp
+
+
+### 4. Manuelt webbplatsprojekts hemsida om gulp-filen inte öppnar det automatiskt.
+
+http://localhost/website-git/pub/index.php
+
