@@ -6,7 +6,11 @@
 
 Tredje fas av webbplatsprojekt här ligger alla utvecklings-filer, vilket inkluderad Gulp-konfiguration, REST-webbtjänst, Fetch API, Javascript-, PHP- och SASS-filer. 
 
-### 1.1 Sätt upp databasen via SQL-fråga:
+### 1 Installera XAMPP lokal server:
+
+https://www.apachefriends.org/index.html
+
+### 2.1 Sätt upp databasen via SQL-fråga:
 
 1.Skapa en ny databas kallad: bdtest.
 
@@ -59,17 +63,17 @@ ALTER TABLE `work`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=33;
 COMMIT;
 
-### 1.2 Skapa databas användernamn:
+### 2.2 Skapa databas användernamn:
    HOST: localhost
    USER: dbtest
    PAASWORD: password
    DATABASE: dbtest
 
-### 2. Klona projekt:
+### 3. Klona projekt:
 
 git clone https://github.com/jbbreil/WEBSITE-GIT.git
 
-### 3. Initialisering konsol kommando:
+### 4. Initialisering konsol kommando:
 
 1. npm install --save --dev
 
