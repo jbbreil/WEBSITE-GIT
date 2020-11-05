@@ -82,5 +82,5 @@ git clone https://github.com/jbbreil/WEBSITE-GIT.git
 
 ## OBS! Manuelt webbplatsprojekts hemsida om gulp-filen inte öppnar det automatiskt.
 
-http://localhost/ersätt_med_din_katalog_namn/pub/index.php
+http://localhost/WEBSITE-GIT/pub/index.php
 
